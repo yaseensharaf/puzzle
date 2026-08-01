@@ -92,6 +92,4 @@ Key tunable constants live at the top of `app.js`:
 - Hand tracking prefers GPU delegation for performance; it automatically retries on CPU if GPU initialization fails.
 - Camera permission denial and missing-webcam errors are surfaced in the UI with a retry option.
 
-## License
 
-Add your license here.
