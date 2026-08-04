@@ -20,7 +20,17 @@
 
 The project pairs a dependency-free, canvas-based frontend with a small, security-conscious Express backend, making it a compact example of combining real-time computer vision (via [MediaPipe HandLandmarker](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker)) with a conventional CRUD API.
 
+## 📸 Application Preview
 
+<p align="center">
+  <img src="image.png"
+       alt="Puzzle Cam running in the browser"
+       width="900">
+</p>
+
+<p align="center">
+<i>Live application showing the webcam feed, gesture detection, puzzle gallery, and real-time hand tracking.</i>
+</p>
 
 ## Table of Contents
 
